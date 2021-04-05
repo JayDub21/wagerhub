@@ -4,6 +4,12 @@
 
 - [Python3](https://www.python.org/downloads/)
 - [NPM](https://www.npmjs.com/get-npm)
+- [pip3](https://pypi.org/project/pip/)
+
+## then install pipenv:
+```sh
+pip3 install pipenv
+```
 
 ### After cloning, ensure you are in the root,
 
